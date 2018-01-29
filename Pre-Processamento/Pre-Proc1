@@ -1,0 +1,7 @@
+> data(varespec)
+> data(varechem)
+> library(mvpart)
+> mvpart(data.matrix(varespec)~.,varechem,xv="pick", xvmult
+=100) # O ".," indica que as variáveis resposta são todas dentro
+do objeto varechem. xvmult indica o número de validações cruzadas
+que serão realizadas.
