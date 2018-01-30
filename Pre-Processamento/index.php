@@ -9,7 +9,7 @@
 <title>OUTPROMO - Agencia</title>
 <link rel="shortcut icon" type="image/x-icon" href="../../images/favicon.ico">
 <meta name="description" content="OUTPROMO">
-<meta name="keywords" content="OUTROMO">
+
 <link rel="stylesheet" type="text/css" href="../css/default.css">
 <script type="text/javascript" src="../../js/jquery.min.js"></script>
 <script type="text/javascript" src="../../js/default_mobile.js"></script>
